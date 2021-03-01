@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Form" name="Main" cloudDestinationProperty="Main" snapToGrid="true" layout="BoxLayout" boxLayoutAxis="Y" title="Gerenciamento de condominio" >
+  <component type="Label" name="Label" cloudDestinationProperty="Label" text="E-mail" >
+  </component>
+  <component type="TextField" name="temail" cloudBoundProperty="text" cloudDestinationProperty="temail" text="" hint="Digite aqui e-mail cadastrado no sistema" >
+  </component>
+  <component type="Label" name="Label1" cloudDestinationProperty="Label1" text="Senha" >
+  </component>
+  <component type="TextField" name="tsenha" cloudBoundProperty="text" cloudDestinationProperty="tsenha" text="" hint="Digite sua senha" >
+  </component>
+  <component type="Button" name="Button" cloudDestinationProperty="Button" snapToGrid="true" text="Entrar" >
+  </component>
+  <component type="LikeButton" name="LikeButton" cloudDestinationProperty="LikeButton" text="Curtir" >
+  </component>
+</component>

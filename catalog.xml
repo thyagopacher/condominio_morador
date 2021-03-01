@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://gestccon.com.br/sistema/control/ServicoWeb.php?wsdl" uri="xml-resources/web-service-references/ServicoWeb/wsdl/gestccon.com.br/sistema/control/ServicoWeb.php.wsdl"/>
+</catalog>
